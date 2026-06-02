@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Takashi Yoneuchi, a software enginer from 🗾 Japan. 
+I'm Takashi Yoneuchi, a software engineer from 🗾 Japan. 
 
 <p>
   <a href="https://shift-js.info">
